@@ -16,8 +16,11 @@ Model ini simpel tapi powerful 💪, cocok untuk implementasi awal dalam sistem 
 
 ## 📁 Struktur Folder
 📂 covid_19_indonesia_time_series_all.csv → Dataset time series COVID-19 Indonesia
+
 📄 TB UAS AI.pdf → Laporan lengkap dalam format PDF 📑
+
 💻 TBUASAI.ipynb → Notebook Jupyter untuk analisis dan modeling 📊
+
 📄 wik,+05.+PREDIKSI+JUMLAH+PASIEN+COVID... → Jurnal utama referensi 📚
 
 ---
